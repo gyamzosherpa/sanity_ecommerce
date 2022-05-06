@@ -12,6 +12,9 @@ node_modules
 /.next/
 /out/
 
+# Secret file
+.env
+
 # production
 /build
 
@@ -28,5 +31,3 @@ yarn-error.log*
 # local env files
 .env*.local
 
-# vercel
-.vercel
